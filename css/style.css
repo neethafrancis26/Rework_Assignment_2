@@ -39,6 +39,7 @@ h1 {
 
 .content img {
   max-width: 50%;
+  object-fit:cover;
 }
 
 .content-text {
